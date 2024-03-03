@@ -6,3 +6,5 @@ Descripcion: Es una escuela dedicada a la enseñanza de Robotica la cual muchos 
 
 
 Diagrama:
+![Diagrama ER](Diagrama.png)
+
